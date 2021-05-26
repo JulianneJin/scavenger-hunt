@@ -1,17 +1,55 @@
 #remind{
+  margin-top:2px;
+  margin-left:2px;
+  color:red;
   background-color:white;
-  opacity:0.2;
-  width:100px;
-  height:100px;
-  position:relative;
- top:1000px;
- left:1400px;
+  width:200px;
+  height:50px;
+  position:absolute;
+
  z-index:1;
 }
 #bg{
  width:1400px;
  position:absolute;
 }
+#pavillion{
+  max-width:250px;
+  margin-left:650px;
+  margin-top:170px;
+}
+#laptop{
+  max-width:400px;
+  margin-left:150px;
+  margin-top:300px;
+}
+#drawer{
+  max-width:300px;
+  margin-left:1000px;
+  margin-top:500px;
+}
+#phone{
+  max-width:50px;
+  margin-left:650px;
+  margin-top:540px;
+}
+#plant{
+  max-width:140px;
+  margin-left:370px;
+  margin-top:20px;
+}
+#books{
+  max-width:200px;
+  margin-left:120px;
+  margin-top:20px;
+}
+#photo{
+  max-width:180px;
+  margin-left:1150px;
+  margin-top:170px;
+}
+
+
 .image{
   position:absolute;
 }
